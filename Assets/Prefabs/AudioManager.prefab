@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1974794031807060769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1974794031807060771}
+  - component: {fileID: 1974794031807060770}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1974794031807060771
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1974794031807060769}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1974794031807060770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1974794031807060769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06b90b7928941a74bb09c0fddf6ab40f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: MainTheme
+    clip: {fileID: 8300000, guid: f2944f83a09e40a4fb262463920d8625, type: 3}
+    volume: 0.1
+    pitch: 1
+    audioSource: {fileID: 0}
+    loop: 1
+  - name: ShotSound
+    clip: {fileID: 8300000, guid: 7395cd285c708ca4ab28827135bf85d6, type: 3}
+    volume: 1
+    pitch: 1
+    audioSource: {fileID: 0}
+    loop: 0
+  - name: Defeat
+    clip: {fileID: 8300000, guid: f66b04f9bc3be2f43b160b1e8fac35d3, type: 3}
+    volume: 0.8
+    pitch: 1
+    audioSource: {fileID: 0}
+    loop: 0
+  - name: Success
+    clip: {fileID: 8300000, guid: 3418fae7ace88e94b95a6c6a8e8349c3, type: 3}
+    volume: 1
+    pitch: 0.8
+    audioSource: {fileID: 0}
+    loop: 0
+  - name: TracksFast
+    clip: {fileID: 8300000, guid: 99ef9b6a84c73da47883e7823f78927c, type: 3}
+    volume: 0.1
+    pitch: 1
+    audioSource: {fileID: 0}
+    loop: 1
+  - name: TracksMedium
+    clip: {fileID: 8300000, guid: 2608e76708e1f3143866b181f8e19e9c, type: 3}
+    volume: 0.1
+    pitch: 1
+    audioSource: {fileID: 0}
+    loop: 1
+  - name: TracksSlow
+    clip: {fileID: 8300000, guid: 42fbbb503d6983c4eb0bcbab0bfa93b4, type: 3}
+    volume: 0.1
+    pitch: 1
+    audioSource: {fileID: 0}
+    loop: 1
+  - name: Hit
+    clip: {fileID: 8300000, guid: 8fff6a373361abf4ab456dbd34bbeb96, type: 3}
+    volume: 0.05
+    pitch: 1
+    audioSource: {fileID: 0}
+    loop: 0
+  - name: Explosion
+    clip: {fileID: 8300000, guid: 00e9f53bb60ae2743ad4cd511b196536, type: 3}
+    volume: 0.8
+    pitch: 1
+    audioSource: {fileID: 0}
+    loop: 0

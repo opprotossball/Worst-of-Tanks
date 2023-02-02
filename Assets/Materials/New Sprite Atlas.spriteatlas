@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4a614aa4a340c41428bb21c593b02541, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 542e9c42c87a5cf4a9b572a0d682bad4, type: 3}
+  - {fileID: 21300000, guid: adc68227f926a6d479c6a9e9f81fc829, type: 3}
+  - {fileID: -1864745910, guid: 2bd659e77e261b9429b8b13db3aee600, type: 3}
+  - {fileID: 1759200442, guid: 2bd659e77e261b9429b8b13db3aee600, type: 3}
+  - {fileID: -1849320233, guid: 2bd659e77e261b9429b8b13db3aee600, type: 3}
+  - {fileID: -141073034, guid: 2bd659e77e261b9429b8b13db3aee600, type: 3}
+  - {fileID: -200672480, guid: 2bd659e77e261b9429b8b13db3aee600, type: 3}
+  - {fileID: -1458013748, guid: 2bd659e77e261b9429b8b13db3aee600, type: 3}
+  - {fileID: 931330874, guid: 2bd659e77e261b9429b8b13db3aee600, type: 3}
+  - {fileID: 371641784, guid: 2bd659e77e261b9429b8b13db3aee600, type: 3}
+  - {fileID: 2014538484, guid: 2bd659e77e261b9429b8b13db3aee600, type: 3}
+  - {fileID: 21300000, guid: 96bf8019946283d47807c687b03b3184, type: 3}
+  - {fileID: 718124396, guid: 71ab14fa5c048fc459e598565186b27d, type: 3}
+  - {fileID: -391633112, guid: 71ab14fa5c048fc459e598565186b27d, type: 3}
+  - {fileID: 826939661, guid: 71ab14fa5c048fc459e598565186b27d, type: 3}
+  - {fileID: 659826978, guid: 71ab14fa5c048fc459e598565186b27d, type: 3}
+  - {fileID: 21300000, guid: a166f83bbb99a3146a89913dc9a7b14f, type: 3}
+  - {fileID: 517744766, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: -1187089482, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: 115136118, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: 1140761576, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: -994271867, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: -593272016, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: -2087802114, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: -524445207, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: 1816862233, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: -109614920, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: -1565497483, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: -938987263, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: 1797206522, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: -771992147, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: -186914318, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: 492568357, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: 755737284, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: 2106772870, guid: a75e0cdb94360844fbd166c64fe1d086, type: 3}
+  - {fileID: 2078479803, guid: 0a11e91f142bf7f419ee7d8ab62e9648, type: 3}
+  - {fileID: 411497396, guid: 0a11e91f142bf7f419ee7d8ab62e9648, type: 3}
+  - {fileID: -1661659554, guid: 0a11e91f142bf7f419ee7d8ab62e9648, type: 3}
+  - {fileID: -851550736, guid: 0a11e91f142bf7f419ee7d8ab62e9648, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - wall
+  - barricade1
+  - tile0_8
+  - tile0_4
+  - tile0_5
+  - tile0_6
+  - tile0_7
+  - tile0_0
+  - tile0_1
+  - tile0_2
+  - tile0_3
+  - barricade
+  - tile2_2
+  - tile2_3
+  - tile2_0
+  - tile2_1
+  - tile1
+  - roadFull_16
+  - roadFull_17
+  - roadFull_14
+  - roadFull_15
+  - roadFull_12
+  - roadFull_13
+  - roadFull_10
+  - roadFull_11
+  - roadFull_9
+  - roadFull_8
+  - roadFull_3
+  - roadFull_2
+  - roadFull_1
+  - roadFull_0
+  - roadFull_7
+  - roadFull_6
+  - roadFull_5
+  - roadFull_4
+  - tile3_3
+  - tile3_2
+  - tile3_1
+  - tile3_0
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
